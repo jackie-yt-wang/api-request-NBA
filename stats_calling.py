@@ -56,5 +56,8 @@ output = f"#### Eastern Conference\n\n{east_md}\n\n" \
 with open(readme_file, 'r+') as file:
     content = file.read()
     file.seek(0)
-    file.write(re.sub(r"### NBA Standings.*last updated on \*\d{4}-\d{2}-\d{2}\*", output, content, flags=re.DOTALL))
+    file.write(re.sub(r"#### Eastern Conference\n\n.*\n\n#### Western Conference\n\n.*\n\nThe `nba-standings-python` repo is last updated on \*\d{4}-\d{2}-\d{2}\*",
+                       output,
+                       content,
+                       flags=re.DOTALL))
     file.truncate()
