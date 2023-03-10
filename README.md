@@ -37,6 +37,3 @@ The script then sorts the standings by wins and losses and selects the top 8 tea
 To use this script, you need to have a Rapid API account and an `API key` that has access to the standings endpoint. You should store your `API key` as a secret in your GitHub repository, which can be accessed by the script during execution.
 
 To schedule the script to run at a regular interval, you can use a `GitHub Actions` workflow that is triggered by a schedule event. The workflow `YAML file` should specify the interval at which the script should run, as well as the timezone in which the script should be executed. An example workflow YAML file is included in this repository, which you can modify to suit your needs.
-
-## Disclaimer
-Please note that the Rapid API service is subject to usage limits and pricing tiers. Be sure to review the pricing and usage terms of the service to avoid any unexpected charges or service disruptions.
