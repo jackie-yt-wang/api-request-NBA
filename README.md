@@ -1,4 +1,3 @@
-### NBA Standings 
 #### Eastern Conference
 
 | Team                |   W |   L | Last10Games   |
