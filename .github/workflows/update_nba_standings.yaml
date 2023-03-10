@@ -1,0 +1,42 @@
+name: Update NBA Standings
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 2 * * *'
+      timezone: America/Chicago
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+            pip install pipenv 
+            pipenv install
+      - name: Set up environment
+        run: |
+            echo "APIKEY=${{ secrets.APIKEY }}" >> $GITHUB_ENV
+      - name: UpdateNBAStandings
+        env:
+          APIKEY: ${{ secrets.APIKEY }}
+        run: |
+          export BASE_FOLDER=$GITHUB_WORKSPACE 
+          export PYTHON_SCRIPT='stats_calling.py'
+          TZ=America/Chicago pipenv run python3 ${PYTHON_SCRIPT}
+      - name: Configure Git
+        run: |
+          git config --global user.email "jackie.yt.wang@gmail.com"
+          git config --global user.name "Jackie Wang"
+          git add README.md
+          git commit -m "Update NBA Standings"
+          git push origin main
