@@ -3,6 +3,7 @@ import pandas as pd
 import os
 from datetime import datetime
 import re
+
 #############
 apikey = os.environ['APIKEY']
 url = "https://api-nba-v1.p.rapidapi.com/standings"
@@ -11,6 +12,7 @@ league = "standard"
 season ="2022"
 readme_file = "README.md"
 #############
+
 querystring = {"league":league , "season": season}
 
 headers = {
