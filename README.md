@@ -24,7 +24,7 @@
 | Golden State Warriors  |  34 |  33 | 6W4L          |
 | Dallas Mavericks       |  34 |  33 | 3W7L          |
 
-The `nba-standings-python` repo is last updated on *2023-03-09*
+The `nba-standings-python` repo is last updated on *2023-03-01*
 
 ---
 
