@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import os
 from datetime import datetime
-
+import re
 #############
 apikey = os.environ['APIKEY']
 url = "https://api-nba-v1.p.rapidapi.com/standings"
@@ -46,9 +46,13 @@ west_md = west_df.to_markdown(index=False)
 # Update the README file with the new tables and the last update date
 last_update_date = datetime.now().strftime("%Y-%m-%d")
 
-with open(readme_file, "a") as f:
-    f.write(f"\n\n### NBA Standings (Last updated on {last_update_date})\n\n")
-    f.write("#### Eastern Conference\n\n")
-    f.write(east_md)
-    f.write("\n\n#### Western Conference\n\n")
-    f.write(west_md)
+
+output = f"#### Eastern Conference\n\n{east_md}\n\n" \
+         f"#### Western Conference\n\n{west_md}\n\n" \
+         f"The `nba-standings-python` repo is last updated on *{last_update_date}*"
+
+with open(readme_file, 'r+') as file:
+    content = file.read()
+    file.seek(0)
+    file.write(re.sub(r"### NBA Standings.*last updated on \*\d{4}-\d{2}-\d{2}\*", output, content, flags=re.DOTALL))
+    file.truncate()
