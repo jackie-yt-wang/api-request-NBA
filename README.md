@@ -6,7 +6,7 @@
 | Boston Celtics      |  46 |  21 | 5W5L          |
 | Philadelphia 76ers  |  43 |  22 | 7W3L          |
 | Cleveland Cavaliers |  42 |  26 | 6W4L          |
-| New York Knicks     |  39 |  28 | 9W1L          |
+| New York Knicks     |  39 |  29 | 8W2L          |
 | Brooklyn Nets       |  37 |  29 | 4W6L          |
 | Miami Heat          |  35 |  32 | 3W7L          |
 | Atlanta Hawks       |  33 |  33 | 5W5L          |
@@ -16,15 +16,15 @@
 | Team                   |   W |   L | Last10Games   |
 |:-----------------------|----:|----:|:--------------|
 | Denver Nuggets         |  46 |  20 | 8W2L          |
+| Sacramento Kings       |  39 |  26 | 8W2L          |
 | Memphis Grizzlies      |  39 |  26 | 5W5L          |
-| Sacramento Kings       |  38 |  26 | 7W3L          |
 | Phoenix Suns           |  37 |  29 | 7W3L          |
 | LA Clippers            |  35 |  33 | 4W6L          |
 | Minnesota Timberwolves |  34 |  33 | 5W5L          |
-| Golden State Warriors  |  34 |  33 | 6W4L          |
+| Golden State Warriors  |  34 |  33 | 5W5L          |
 | Dallas Mavericks       |  34 |  33 | 3W7L          |
 
-The `nba-standings-python` repo is last updated on *2023-03-09*
+The `nba-standings-python` repo is last updated on *2023-03-10*
 
 ---
 
