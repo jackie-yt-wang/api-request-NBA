@@ -2,29 +2,29 @@
 
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
-| Milwaukee Bucks     |  48 |  18 | 9W1L          |
-| Boston Celtics      |  46 |  21 | 5W5L          |
-| Philadelphia 76ers  |  44 |  22 | 7W3L          |
-| Cleveland Cavaliers |  42 |  27 | 5W5L          |
-| New York Knicks     |  39 |  30 | 8W2L          |
-| Brooklyn Nets       |  38 |  29 | 5W5L          |
-| Miami Heat          |  36 |  32 | 4W6L          |
-| Atlanta Hawks       |  34 |  33 | 5W5L          |
+| Milwaukee Bucks     |  48 |  19 | 8W2L          |
+| Boston Celtics      |  47 |  21 | 6W4L          |
+| Philadelphia 76ers  |  45 |  22 | 7W3L          |
+| Cleveland Cavaliers |  43 |  27 | 5W5L          |
+| Brooklyn Nets       |  39 |  29 | 5W5L          |
+| New York Knicks     |  39 |  30 | 7W3L          |
+| Miami Heat          |  36 |  33 | 4W6L          |
+| Atlanta Hawks       |  34 |  34 | 5W5L          |
 
 #### Western Conference
 
 | Team                   |   W |   L | Last10Games   |
 |:-----------------------|----:|----:|:--------------|
-| Denver Nuggets         |  46 |  21 | 7W3L          |
-| Sacramento Kings       |  39 |  26 | 8W2L          |
-| Memphis Grizzlies      |  39 |  26 | 5W5L          |
-| Phoenix Suns           |  37 |  29 | 7W3L          |
-| LA Clippers            |  36 |  33 | 4W6L          |
+| Denver Nuggets         |  46 |  22 | 7W3L          |
+| Sacramento Kings       |  40 |  26 | 8W2L          |
+| Memphis Grizzlies      |  40 |  26 | 6W4L          |
+| Phoenix Suns           |  37 |  30 | 7W3L          |
+| LA Clippers            |  36 |  33 | 5W5L          |
+| Golden State Warriors  |  35 |  33 | 6W4L          |
 | Minnesota Timberwolves |  34 |  34 | 4W6L          |
-| Golden State Warriors  |  34 |  33 | 5W5L          |
-| Dallas Mavericks       |  34 |  33 | 3W7L          |
+| Dallas Mavericks       |  34 |  34 | 3W7L          |
 
-The `nba-standings-python` repo is last updated on *2023-03-11*
+The `nba-standings-python` repo is last updated on *2023-03-12*
 
 ---
 
