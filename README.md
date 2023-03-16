@@ -2,29 +2,29 @@
 
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
-| Milwaukee Bucks     |  49 |  19 | 8W2L          |
+| Milwaukee Bucks     |  50 |  19 | 8W2L          |
 | Boston Celtics      |  47 |  22 | 5W5L          |
 | Philadelphia 76ers  |  45 |  22 | 7W3L          |
-| Cleveland Cavaliers |  44 |  27 | 5W5L          |
-| New York Knicks     |  40 |  30 | 7W3L          |
-| Brooklyn Nets       |  39 |  29 | 5W5L          |
-| Miami Heat          |  37 |  33 | 5W5L          |
+| Cleveland Cavaliers |  44 |  27 | 6W4L          |
+| New York Knicks     |  41 |  30 | 7W3L          |
+| Brooklyn Nets       |  39 |  30 | 5W5L          |
+| Miami Heat          |  38 |  33 | 5W5L          |
 | Atlanta Hawks       |  34 |  35 | 5W5L          |
 
 #### Western Conference
 
 | Team                   |   W |   L | Last10Games   |
 |:-----------------------|----:|----:|:--------------|
-| Denver Nuggets         |  46 |  23 | 6W4L          |
-| Memphis Grizzlies      |  41 |  26 | 6W4L          |
+| Denver Nuggets         |  46 |  23 | 5W5L          |
+| Memphis Grizzlies      |  41 |  27 | 6W4L          |
 | Sacramento Kings       |  40 |  27 | 8W2L          |
-| Phoenix Suns           |  37 |  31 | 6W4L          |
+| Phoenix Suns           |  37 |  32 | 5W5L          |
 | Golden State Warriors  |  36 |  33 | 7W3L          |
 | LA Clippers            |  36 |  33 | 5W5L          |
 | Minnesota Timberwolves |  35 |  34 | 5W5L          |
-| Dallas Mavericks       |  34 |  35 | 3W7L          |
+| Oklahoma City Thunder  |  34 |  35 | 6W4L          |
 
-The `nba-standings-python` repo is last updated on *2023-03-14*
+The `nba-standings-python` repo is last updated on *2023-03-15*
 
 ---
 
