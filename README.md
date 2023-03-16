@@ -24,7 +24,7 @@
 | Minnesota Timberwolves |  35 |  34 | 5W5L          |
 | Oklahoma City Thunder  |  34 |  35 | 6W4L          |
 
-The `nba-standings-python` repo is last updated on *2023-03-11*
+The `nba-standings-python` repo is last updated on *2023-03-15*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
