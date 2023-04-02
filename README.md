@@ -5,8 +5,8 @@
 | Milwaukee Bucks     |  55 |  22 | 7W3L          |
 | Boston Celtics      |  54 |  24 | 7W3L          |
 | Philadelphia 76ers  |  51 |  26 | 6W4L          |
-| Cleveland Cavaliers |  48 |  30 | 7W3L          |
-| New York Knicks     |  45 |  33 | 5W5L          |
+| Cleveland Cavaliers |  48 |  30 | 6W4L          |
+| New York Knicks     |  45 |  33 | 6W4L          |
 | Brooklyn Nets       |  42 |  35 | 4W6L          |
 | Miami Heat          |  40 |  37 | 5W5L          |
 | Toronto Raptors     |  38 |  39 | 6W4L          |
@@ -15,16 +15,16 @@
 
 | Team                   |   W |   L | Last10Games   |
 |:-----------------------|----:|----:|:--------------|
-| Denver Nuggets         |  51 |  25 | 5W5L          |
-| Memphis Grizzlies      |  48 |  28 | 8W2L          |
-| Sacramento Kings       |  46 |  30 | 6W4L          |
-| Phoenix Suns           |  41 |  35 | 4W6L          |
-| LA Clippers            |  41 |  36 | 7W3L          |
-| Golden State Warriors  |  40 |  37 | 6W4L          |
-| Minnesota Timberwolves |  39 |  38 | 5W5L          |
-| New Orleans Pelicans   |  39 |  38 | 7W3L          |
+| Denver Nuggets         |  51 |  26 | 5W5L          |
+| Memphis Grizzlies      |  49 |  28 | 8W2L          |
+| Sacramento Kings       |  47 |  30 | 7W3L          |
+| Phoenix Suns           |  42 |  35 | 5W5L          |
+| LA Clippers            |  41 |  37 | 6W4L          |
+| Golden State Warriors  |  41 |  37 | 6W4L          |
+| Minnesota Timberwolves |  39 |  39 | 5W5L          |
+| Los Angeles Lakers     |  39 |  38 | 6W4L          |
 
-The `nba-standings-python` repo is last updated on *2023-03-31*
+The `nba-standings-python` repo is last updated on *2023-04-01*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
