@@ -2,29 +2,29 @@
 
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
-| Milwaukee Bucks     |  56 |  22 | 7W3L          |
+| Milwaukee Bucks     |  57 |  22 | 7W3L          |
 | Boston Celtics      |  54 |  24 | 7W3L          |
 | Philadelphia 76ers  |  51 |  27 | 5W5L          |
-| Cleveland Cavaliers |  49 |  30 | 7W3L          |
+| Cleveland Cavaliers |  50 |  30 | 7W3L          |
 | New York Knicks     |  46 |  33 | 7W3L          |
-| Brooklyn Nets       |  43 |  35 | 4W6L          |
-| Miami Heat          |  41 |  37 | 5W5L          |
-| Toronto Raptors     |  39 |  39 | 7W3L          |
+| Brooklyn Nets       |  43 |  36 | 4W6L          |
+| Miami Heat          |  42 |  37 | 5W5L          |
+| Toronto Raptors     |  40 |  39 | 7W3L          |
 
 #### Western Conference
 
-| Team                  |   W |   L | Last10Games   |
-|:----------------------|----:|----:|:--------------|
-| Denver Nuggets        |  52 |  26 | 6W4L          |
-| Memphis Grizzlies     |  49 |  29 | 8W2L          |
-| Sacramento Kings      |  47 |  31 | 6W4L          |
-| Phoenix Suns          |  43 |  35 | 6W4L          |
-| LA Clippers           |  41 |  38 | 5W5L          |
-| Golden State Warriors |  41 |  38 | 5W5L          |
-| Los Angeles Lakers    |  40 |  38 | 7W3L          |
-| New Orleans Pelicans  |  40 |  38 | 7W3L          |
+| Team                   |   W |   L | Last10Games   |
+|:-----------------------|----:|----:|:--------------|
+| Denver Nuggets         |  52 |  26 | 6W4L          |
+| Memphis Grizzlies      |  49 |  29 | 8W2L          |
+| Sacramento Kings       |  47 |  31 | 6W4L          |
+| Phoenix Suns           |  43 |  35 | 6W4L          |
+| LA Clippers            |  41 |  38 | 5W5L          |
+| Golden State Warriors  |  41 |  38 | 5W5L          |
+| Minnesota Timberwolves |  40 |  40 | 4W6L          |
+| Los Angeles Lakers     |  40 |  38 | 7W3L          |
 
-The `nba-standings-python` repo is last updated on *2023-04-03*
+The `nba-standings-python` repo is last updated on *2023-04-04*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
