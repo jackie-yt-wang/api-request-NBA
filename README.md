@@ -2,29 +2,29 @@
 
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
-| Milwaukee Bucks     |  57 |  22 | 7W3L          |
-| Boston Celtics      |  54 |  24 | 7W3L          |
-| Philadelphia 76ers  |  51 |  27 | 5W5L          |
+| Milwaukee Bucks     |  58 |  22 | 7W3L          |
+| Boston Celtics      |  55 |  25 | 7W3L          |
+| Philadelphia 76ers  |  52 |  27 | 5W5L          |
 | Cleveland Cavaliers |  50 |  30 | 7W3L          |
-| New York Knicks     |  46 |  33 | 7W3L          |
-| Brooklyn Nets       |  43 |  36 | 4W6L          |
-| Miami Heat          |  42 |  37 | 5W5L          |
-| Toronto Raptors     |  40 |  39 | 7W3L          |
+| New York Knicks     |  47 |  33 | 7W3L          |
+| Brooklyn Nets       |  44 |  36 | 4W6L          |
+| Miami Heat          |  42 |  37 | 6W4L          |
+| Atlanta Hawks       |  41 |  39 | 6W4L          |
 
 #### Western Conference
 
 | Team                   |   W |   L | Last10Games   |
 |:-----------------------|----:|----:|:--------------|
-| Denver Nuggets         |  52 |  26 | 6W4L          |
-| Memphis Grizzlies      |  49 |  29 | 8W2L          |
-| Sacramento Kings       |  47 |  31 | 6W4L          |
-| Phoenix Suns           |  43 |  35 | 6W4L          |
+| Denver Nuggets         |  52 |  27 | 6W4L          |
+| Memphis Grizzlies      |  50 |  29 | 8W2L          |
+| Sacramento Kings       |  48 |  31 | 6W4L          |
+| Phoenix Suns           |  44 |  35 | 7W3L          |
+| Golden State Warriors  |  42 |  38 | 6W4L          |
 | LA Clippers            |  41 |  38 | 5W5L          |
-| Golden State Warriors  |  41 |  38 | 5W5L          |
-| Minnesota Timberwolves |  40 |  40 | 4W6L          |
-| Los Angeles Lakers     |  40 |  38 | 7W3L          |
+| Los Angeles Lakers     |  41 |  38 | 7W3L          |
+| Minnesota Timberwolves |  40 |  40 | 5W5L          |
 
-The `nba-standings-python` repo is last updated on *2023-04-04*
+The `nba-standings-python` repo is last updated on *2023-04-05*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
