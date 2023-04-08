@@ -3,28 +3,28 @@
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
 | Milwaukee Bucks     |  58 |  22 | 7W3L          |
-| Boston Celtics      |  55 |  25 | 7W3L          |
-| Philadelphia 76ers  |  52 |  28 | 5W5L          |
+| Boston Celtics      |  56 |  25 | 7W3L          |
+| Philadelphia 76ers  |  52 |  28 | 4W6L          |
 | Cleveland Cavaliers |  51 |  30 | 7W3L          |
 | New York Knicks     |  47 |  33 | 7W3L          |
-| Brooklyn Nets       |  44 |  36 | 5W5L          |
-| Miami Heat          |  43 |  37 | 6W4L          |
+| Brooklyn Nets       |  45 |  36 | 5W5L          |
+| Miami Heat          |  43 |  38 | 6W4L          |
 | Atlanta Hawks       |  41 |  39 | 6W4L          |
 
 #### Western Conference
 
 | Team                  |   W |   L | Last10Games   |
 |:----------------------|----:|----:|:--------------|
-| Denver Nuggets        |  52 |  27 | 6W4L          |
+| Denver Nuggets        |  52 |  28 | 5W5L          |
 | Memphis Grizzlies     |  50 |  30 | 7W3L          |
 | Sacramento Kings      |  48 |  32 | 5W5L          |
-| Phoenix Suns          |  44 |  35 | 7W3L          |
+| Phoenix Suns          |  45 |  35 | 7W3L          |
 | LA Clippers           |  42 |  38 | 5W5L          |
 | Golden State Warriors |  42 |  38 | 6W4L          |
 | Los Angeles Lakers    |  41 |  39 | 7W3L          |
 | New Orleans Pelicans  |  41 |  39 | 8W2L          |
 
-The `nba-standings-python` repo is last updated on *2023-04-06*
+The `nba-standings-python` repo is last updated on *2023-04-07*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
