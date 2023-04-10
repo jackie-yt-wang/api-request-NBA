@@ -19,12 +19,12 @@
 | Memphis Grizzlies     |  51 |  30 | 7W3L          |
 | Sacramento Kings      |  48 |  33 | 5W5L          |
 | Phoenix Suns          |  45 |  36 | 7W3L          |
+| LA Clippers           |  43 |  38 | 6W4L          |
 | Golden State Warriors |  43 |  38 | 7W3L          |
-| LA Clippers           |  43 |  38 | 5W5L          |
 | Los Angeles Lakers    |  42 |  39 | 8W2L          |
 | New Orleans Pelicans  |  42 |  39 | 8W2L          |
 
-The `nba-standings-python` repo is last updated on *2023-04-08*
+The `nba-standings-python` repo is last updated on *2023-04-09*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
