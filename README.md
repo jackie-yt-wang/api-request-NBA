@@ -2,29 +2,29 @@
 
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
-| Milwaukee Bucks     |  58 |  23 | 7W3L          |
-| Boston Celtics      |  56 |  25 | 7W3L          |
-| Philadelphia 76ers  |  53 |  28 | 5W5L          |
-| Cleveland Cavaliers |  51 |  30 | 7W3L          |
-| New York Knicks     |  47 |  34 | 6W4L          |
-| Brooklyn Nets       |  45 |  36 | 6W4L          |
-| Miami Heat          |  43 |  38 | 5W5L          |
-| Atlanta Hawks       |  41 |  40 | 6W4L          |
+| Milwaukee Bucks     |  58 |  24 | 6W4L          |
+| Boston Celtics      |  57 |  25 | 8W2L          |
+| Philadelphia 76ers  |  54 |  28 | 5W5L          |
+| Cleveland Cavaliers |  51 |  31 | 7W3L          |
+| New York Knicks     |  47 |  35 | 5W5L          |
+| Brooklyn Nets       |  45 |  37 | 6W4L          |
+| Miami Heat          |  44 |  38 | 6W4L          |
+| Toronto Raptors     |  41 |  41 | 6W4L          |
 
 #### Western Conference
 
-| Team                  |   W |   L | Last10Games   |
-|:----------------------|----:|----:|:--------------|
-| Denver Nuggets        |  52 |  29 | 5W5L          |
-| Memphis Grizzlies     |  51 |  30 | 7W3L          |
-| Sacramento Kings      |  48 |  33 | 5W5L          |
-| Phoenix Suns          |  45 |  36 | 7W3L          |
-| LA Clippers           |  43 |  38 | 6W4L          |
-| Golden State Warriors |  43 |  38 | 7W3L          |
-| Los Angeles Lakers    |  42 |  39 | 8W2L          |
-| New Orleans Pelicans  |  42 |  39 | 8W2L          |
+| Team                   |   W |   L | Last10Games   |
+|:-----------------------|----:|----:|:--------------|
+| Denver Nuggets         |  53 |  29 | 5W5L          |
+| Memphis Grizzlies      |  51 |  31 | 6W4L          |
+| Sacramento Kings       |  48 |  34 | 5W5L          |
+| Phoenix Suns           |  45 |  37 | 7W3L          |
+| LA Clippers            |  44 |  38 | 6W4L          |
+| Golden State Warriors  |  44 |  38 | 8W2L          |
+| Los Angeles Lakers     |  43 |  39 | 8W2L          |
+| Minnesota Timberwolves |  42 |  40 | 7W3L          |
 
-The `nba-standings-python` repo is last updated on *2023-07-11*
+The `nba-standings-python` repo is last updated on *2023-07-12*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
