@@ -24,7 +24,7 @@
 | Phoenix Suns           |   0 |   0 | 7W3L          |
 | LA Clippers            |   0 |   0 | 6W4L          |
 
-The `nba-standings-python` repo is last updated on *2023-08-24*
+The `nba-standings-python` repo is last updated on *2023-08-25*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
