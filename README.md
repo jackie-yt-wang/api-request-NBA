@@ -2,29 +2,29 @@
 
 | Team                |   W |   L | Last10Games   |
 |:--------------------|----:|----:|:--------------|
-| Boston Celtics      |   0 |   0 | 8W2L          |
-| Philadelphia 76ers  |   0 |   0 | 5W5L          |
-| New York Knicks     |   0 |   0 | 5W5L          |
-| Brooklyn Nets       |   0 |   0 | 6W4L          |
-| Toronto Raptors     |   0 |   0 | 6W4L          |
-| Milwaukee Bucks     |   0 |   0 | 6W4L          |
-| Cleveland Cavaliers |   0 |   0 | 7W3L          |
-| Chicago Bulls       |   0 |   0 | 6W4L          |
+| Milwaukee Bucks     |  58 |  24 | 6W4L          |
+| Boston Celtics      |  57 |  25 | 8W2L          |
+| Philadelphia 76ers  |  54 |  28 | 5W5L          |
+| Cleveland Cavaliers |  51 |  31 | 7W3L          |
+| New York Knicks     |  47 |  35 | 5W5L          |
+| Brooklyn Nets       |  45 |  37 | 6W4L          |
+| Miami Heat          |  44 |  38 | 6W4L          |
+| Toronto Raptors     |  41 |  41 | 6W4L          |
 
 #### Western Conference
 
 | Team                   |   W |   L | Last10Games   |
 |:-----------------------|----:|----:|:--------------|
-| Denver Nuggets         |   0 |   0 | 5W5L          |
-| Minnesota Timberwolves |   0 |   0 | 7W3L          |
-| Oklahoma City Thunder  |   0 |   0 | 4W6L          |
-| Utah Jazz              |   0 |   0 | 2W8L          |
-| Portland Trail Blazers |   0 |   0 | 1W9L          |
-| Sacramento Kings       |   0 |   0 | 5W5L          |
-| Phoenix Suns           |   0 |   0 | 7W3L          |
-| LA Clippers            |   0 |   0 | 6W4L          |
+| Denver Nuggets         |  53 |  29 | 5W5L          |
+| Memphis Grizzlies      |  51 |  31 | 6W4L          |
+| Sacramento Kings       |  48 |  34 | 5W5L          |
+| Phoenix Suns           |  45 |  37 | 7W3L          |
+| LA Clippers            |  44 |  38 | 6W4L          |
+| Golden State Warriors  |  44 |  38 | 8W2L          |
+| Los Angeles Lakers     |  43 |  39 | 8W2L          |
+| Minnesota Timberwolves |  42 |  40 | 7W3L          |
 
-The `nba-standings-python` repo is last updated on *2023-08-25*
+The `nba-standings-python` repo is last updated on *2023-08-26*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
