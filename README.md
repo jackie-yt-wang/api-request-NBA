@@ -24,7 +24,7 @@
 | Los Angeles Lakers    |  43 |  39 | 8W2L          |
 | New Orleans Pelicans  |  42 |  40 | 7W3L          |
 
-The `nba-standings-python` repo is last updated on *2024-11-03*
+The `nba-standings-python` repo is last updated on *2024-11-04*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
