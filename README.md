@@ -13,18 +13,18 @@
 
 #### Western Conference
 
-| Team                  |   W |   L | Last10Games   |
-|:----------------------|----:|----:|:--------------|
-| Denver Nuggets        |  53 |  29 | 5W5L          |
-| Memphis Grizzlies     |  51 |  31 | 6W4L          |
-| Sacramento Kings      |  48 |  34 | 5W5L          |
-| Phoenix Suns          |  45 |  37 | 7W3L          |
-| LA Clippers           |  44 |  38 | 6W4L          |
-| Golden State Warriors |  44 |  38 | 8W2L          |
-| Los Angeles Lakers    |  43 |  39 | 8W2L          |
-| New Orleans Pelicans  |  42 |  40 | 7W3L          |
+| Team                   |   W |   L | Last10Games   |
+|:-----------------------|----:|----:|:--------------|
+| Denver Nuggets         |  53 |  29 | 5W5L          |
+| Memphis Grizzlies      |  51 |  31 | 6W4L          |
+| Sacramento Kings       |  48 |  34 | 5W5L          |
+| Phoenix Suns           |  45 |  37 | 7W3L          |
+| LA Clippers            |  44 |  38 | 6W4L          |
+| Golden State Warriors  |  44 |  38 | 8W2L          |
+| Los Angeles Lakers     |  43 |  39 | 8W2L          |
+| Minnesota Timberwolves |  42 |  40 | 7W3L          |
 
-The `nba-standings-python` repo is last updated on *2024-11-04*
+The `nba-standings-python` repo is last updated on *2024-11-05*
 
 ---
 <img alt="JPG" src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="400" height="320" />
